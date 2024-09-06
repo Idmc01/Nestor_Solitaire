@@ -1,0 +1,10 @@
+[package]
+name = "solitaire"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+simplelog = "0.10"
+crossterm = "0.23.0"
+log = "0.4"

@@ -1,0 +1,30 @@
+04:37:32 [INFO] Cartas:
+04:37:32 [INFO] 7D 3D 6T ZD ZE 2E 4D JE | 1
+04:37:32 [INFO] QE 2C AC KE 8C 8E 8D JD | 2
+04:37:32 [INFO] JC 3E 2D JT KD 5T 9D ZT | 3
+04:37:32 [INFO] 9E KC QT 9T AT 5E 4T 6E | 4
+04:37:32 [INFO] 7T QC 6D 6C 7C KT 9C 5D | 5
+04:37:32 [INFO] 3C 3T 4E 7E QD 8T 4C 2T | 6
+04:37:32 [INFO]  1  2  3  4  5  6  7  8 -> Columnas
+04:37:32 [INFO] 
+Remaining cards:
+04:37:32 [INFO] 1: 5C
+04:37:32 [INFO] 2: AE
+04:37:32 [INFO] 3: ZC
+04:37:32 [INFO] 4: AD
+04:37:37 [INFO] User selected column 1 for the first card.
+04:37:37 [INFO] User selected column 2 for the second card.
+04:37:37 [INFO] Cartas:
+04:37:37 [INFO] 7D 3D 6T ZD ZE 2E 4D JE | 1
+04:37:37 [INFO] QE 2C AC KE 8C 8E 8D JD | 2
+04:37:37 [INFO] JC 3E 2D JT KD 5T 9D ZT | 3
+04:37:37 [INFO] 9E KC QT 9T AT 5E 4T 6E | 4
+04:37:37 [INFO] 7T QC 6D 6C 7C KT 9C 5D | 5
+04:37:37 [INFO] None None 4E 7E QD 8T 4C 2T | 6
+04:37:37 [INFO]  1  2  3  4  5  6  7  8 -> Columnas
+04:37:37 [INFO] 
+Remaining cards:
+04:37:37 [INFO] 1: 5C
+04:37:37 [INFO] 2: AE
+04:37:37 [INFO] 3: ZC
+04:37:37 [INFO] 4: AD
